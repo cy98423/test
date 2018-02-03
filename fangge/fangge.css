@@ -1,0 +1,24 @@
+/*
+* @Author: Administrator
+* @Date:   2018-02-01 15:23:55
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-02-02 09:29:39
+*/
+
+.out{
+	width: auto;
+	height: 50%;
+	padding: 1%;
+	padding-left: 5%;
+	clear: both;
+}
+.in{
+	float: left;
+	width: 6%;
+	height: auto;
+	background-color: yellow;
+	padding: 12%;
+	margin: 1%;
+	border-radius: 5%;
+
+}
